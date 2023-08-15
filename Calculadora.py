@@ -25,7 +25,7 @@ match operacion:
         print("La división es " + str(division))
     case '%':
         # Operación división:
-        modulo = numero1 %/ numero2
+        modulo = numero1 % numero2
         print("El módulo es " + str(modulo))
     case '**':
         # Operación división:
